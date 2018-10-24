@@ -4,4 +4,4 @@ This is my Serverless portfolio. It uses AWS and ReactJS.
 
 ## Technologies Used
 Git and github
-SSH, Atom, Chocolatey
+SSH, Atom, Chocolatey, HTML, CSS, Font Awesome, Google Fonts
