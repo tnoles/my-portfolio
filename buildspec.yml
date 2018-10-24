@@ -5,7 +5,7 @@ phases:
     commands:
       - echo Nothing to do yet
 artifacts:
-  - index.HTML
+  - index.html
   - favicon.ico
   - Profile.pdf
   - styles/main.CSS
