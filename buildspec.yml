@@ -3,7 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo Nothing To Do
+      - echo Nothing To Do right now
 artifacts:
   files:
   - index.HTML
