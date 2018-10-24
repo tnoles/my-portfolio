@@ -1,2 +1,3 @@
-# my-portfolio
-This is my Serverless portfolio on AWS
+# Thaniel Noles's portfolio
+
+This is my Serverless portfolio. It uses AWS and ReactJS.
