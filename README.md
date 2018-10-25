@@ -6,4 +6,4 @@ This is my Serverless portfolio. It uses AWS and ReactJS.
 Git and github
 SSH, Atom, Chocolatey, HTML, CSS, Font Awesome, Google Fonts
 CloudFront, Route 53, S3, SSL, Certificate Manager, IAM
-CodePipeline, CodeBuild, Lambda, SNS
+CodePipeline, CodeBuild, Lambda, SNS, Python, Boto3, SNS,
