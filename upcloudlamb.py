@@ -14,7 +14,6 @@ def lambda_handler(event, context):
     }
     try:
         job = event.get('CodePipeline.job')
-
         if job:
             for artifact in job["data"]["inputArtifacts"]:
                 if artifact["name"] == "MyAppBuild":
@@ -39,7 +38,7 @@ def lambda_handler(event, context):
         print "Job done!"
         topic.publish(Subject="Portfolio Deployed", Message="Portfolio Deployed Successfully.")
         if job:
-            codepipline = boto3.client('codepipline')
+            codepipline = boto3.client('Codepipeline')
             codepipline.put_job_success_result(jobId=job["id"])
 
     except:
