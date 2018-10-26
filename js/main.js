@@ -7,7 +7,7 @@ const myWork = [
     'title': "Portfolio Boilerplate",
     'image': {
       'desc': "A Serverless Portfolio",
-      'src': "images/c1.png",
+      'src': "images/example2.png",
       'comment': ""
     }
   },
@@ -15,7 +15,7 @@ const myWork = [
     'title': "Work Example",
     'image': {
       'desc': "example screenshot of a project involving cats",
-      'src': "images/c2.png",
+      'src': "images/example3.png",
       'comment': `"Bengal cat" by roberto shabs is licensed under CC BY 2.0
            https://www.flickr.com/photos/37287295@N00/2540855181`
     }
@@ -24,7 +24,7 @@ const myWork = [
     'title': "Work Example",
     'image': {
       'desc': "example screenshot of a project involving code",
-      'src': "images/c3.png",
+      'src': "images/example1.png",
       'comment': ""
     }
   }
