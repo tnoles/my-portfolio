@@ -3,6 +3,18 @@
   "version": "1.0.0",
   "description": "My Portfolio",
   "main": "index.js",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "save-dev": "^2.0.0",
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.13"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-react": "^6.24.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack",
@@ -10,23 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robin-norwood/my-portfolio-test.git"
+    "url": "git+https://github.com/tnoles/my-portfolio.git"
   },
-  "author": "Robin Norwood",
+  "author": "Thaniel Noles <tnoles@eplus.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/robin-norwood/my-portfolio-test/issues"
+    "url": "https://github.com/tnoles/my-portfolio/issues"
   },
-  "homepage": "https://github.com/robin-norwood/my-portfolio-test#readme",
-  "dependencies": {
-    "local-web-server": "^2.3.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
-  },
-  "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-react": "^6.24.1",
-    "webpack": "^3.10.0"
-  }
+  "homepage": "https://github.com/tnoles/my-portfolio#readme"
 }
