@@ -6,7 +6,7 @@ phases:
       - echo Nothing To Do right now
 artifacts:
   files:
-  - index.HTML
+  - index.html
   - favicon.ico
   - Profile.pdf
   - styles/main.CSS
